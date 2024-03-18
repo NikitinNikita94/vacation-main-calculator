@@ -1,0 +1,6 @@
+rootProject.name = 'vacation-main-calculator'
+
+includeBuild 'eureka-server'
+includeBuild 'eureka-client-calculator'
+includeBuild 'api-gateway'
+
